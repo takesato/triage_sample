@@ -1,0 +1,20 @@
+diff --git 2both_added 2both_added
+index 1f7391f..a94abf2 100644
+--- 2both_added
++++ 2both_added
+@@ -1 +1,5 @@
++<<<<<<< ours
+ master
++=======
++branch
++>>>>>>> theirs
+diff --git 2both_modified 2both_modified
+index 1f7391f..a94abf2 100644
+--- 2both_modified
++++ 2both_modified
+@@ -1 +1,5 @@
++<<<<<<< ours
+ master
++=======
++branch
++>>>>>>> theirs
