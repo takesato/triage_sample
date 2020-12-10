@@ -1,0 +1,11 @@
+---
+prescription:
+  - description: ours で解決(パッチつくらず)
+    paths:
+      - both_modified
+      - path/
+    direction: ours
+  - description: theirs で解決(パッチつくらず)
+    paths:
+      - both_added
+    direction: theirs
