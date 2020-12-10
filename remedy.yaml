@@ -1,4 +1,5 @@
 ---
+repository: takesato/triage_sample
 prescription:
   - description: ours で解決(パッチつくらず)
     paths:
