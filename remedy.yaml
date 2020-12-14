@@ -10,3 +10,7 @@ prescription:
     paths:
       - both_added
     direction: theirs
+authors:
+  takehitosato@gmail.com: 
+    github: takesato
+    slack: takesato
